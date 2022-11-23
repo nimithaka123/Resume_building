@@ -89,3 +89,4 @@ class Social_Media(Base):
     network = Column(String(50), nullable=True)
     user_name = Column(String(50), nullable=True)
     url = Column(String(250), nullable=True)
+
